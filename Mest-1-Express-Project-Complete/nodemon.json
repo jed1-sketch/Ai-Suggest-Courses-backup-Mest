@@ -1,0 +1,5 @@
+{
+  "env": {
+    "MONGO_URI": "mongodb+srv://premest-project-express:mZ4J816f5UM2Jyry@cluster0.hd3kl.mongodb.net/Mest-express-project?retryWrites=true&w=majority"
+  }
+}
